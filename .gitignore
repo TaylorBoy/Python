@@ -15,4 +15,10 @@ build
 db.ini
 *.xml
 *.html
+*.jpeg
+*.jpg
+*.png
+*.iml
+*.txt
+
 
